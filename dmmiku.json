@@ -1,0 +1,20 @@
+{
+  "api":"4",
+  "type":"anime",
+  "name":"异世界动漫",
+  "version":"1.0",
+  "muliSources":true,
+  "useWebview":true,
+  "useNativePlayer":false,
+  "usePost":false,
+  "useLegacyParser":false,
+  "userAgent":"",
+  "baseURL":"https://www.dmmiku.net/",
+  "searchURL":"https://www.ysjdm.net/index.php/vod/search.html?wd=@keyword&submit=",
+  "searchList":"//div[2]/div[2]/div[1]",
+  "searchName":"//ul[1]/li/div[2]/h4/a",
+  "searchResult":"//ul[1]/li/div[2]/h4/a",
+  "chapterRoads":"//div[3]/div[1]/div[2]/div[2]/div[2]/div[3]",
+  "chapterResult":"//ul/li/a",
+  "referer":""
+}
